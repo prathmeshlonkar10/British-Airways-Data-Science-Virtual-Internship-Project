@@ -1,11 +1,14 @@
 # British Airways Data Science Virtual Internship
 
 Data science virtual internship program by British Airways through Forage!
+
 ![image](https://github.com/prathmeshlonkar10/British-Airways-Data-Science-Virtual-Internship-Project/assets/66990159/bd586143-17bf-41b7-986c-c19bf29ae92b)
+
 
 ## Highlight
 A project with an opportunity to step into the shoes of a British Airways Data Scientist and complete tasks that replicate everyday work accomplished by the British Airways Data Science team. 
 The project consists of 2 tasks that involve analyzing the scraped customer review data and building predictive models to predict customer buying behavior.
+
 
 ## Task 1: Web scraping to gain company insights
 Scrape and analyze customer review data to uncover findings for British Airways
@@ -13,11 +16,13 @@ Scrape and analyze customer review data to uncover findings for British Airways
 - Analyze the scraped customer reviews using **Sentimental Analysis** to classify positive, neutral, and negative reviews
 - Present your insights and analysis using PowerPoint
 
+
 ## Task 2: Predicting customer buying behavior
 Build a predictive model to understand factors that influence buying behavior
 - Prepare the data by performing EDA and feature engineering techniques
 - Create a classification model to predict customer buying behavior
 - Prepare a PowerPoint representation to highlight obtained insights and analysis
+
 
 ## Learning Outcome
 - How Data Scientists at British Airways apply analytical skills to make a tangible impact by providing recommendations, tools, and models that drive key business decisions
