@@ -27,3 +27,8 @@ Build a predictive model to understand factors that influence buying behavior
 ## Learning Outcome
 - How Data Scientists at British Airways apply analytical skills to make a tangible impact by providing recommendations, tools, and models that drive key business decisions
 - How using data and predictive models helps British Airways acquire customers before they embark on their holidays
+
+
+## Details
+Completion certificate link: [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_86QszvD3RDEMeQAkC_1703651559538_completion_certificate.pdf)
+Virtual Internship program link: [Program](https://www.theforage.com/simulations/british-airways/data-science-yqoz)
