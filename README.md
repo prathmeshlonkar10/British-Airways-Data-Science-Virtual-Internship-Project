@@ -33,7 +33,6 @@ Build a predictive model to understand factors that influence buying behavior
 ![](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://camo.githubusercontent.com/58bfe5f46be0cf6c7d0b34f17a83ad69250fc9180ef95018eacfd283cdc61c10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174706c6f746c6962266c6f676f436f6c6f723d7768697465)
-![](https://user-images.githubusercontent.com/315810/92254578-1bb0be00-ee9f-11ea-986a-fd875f2eadc6.png)
 
 
 ## Learning Outcome
